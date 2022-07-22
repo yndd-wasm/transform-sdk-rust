@@ -1,4 +1,5 @@
 pub mod metadata;
+pub use wapc_guest;
 
 use crate::metadata::ProtocolVersion;
 
